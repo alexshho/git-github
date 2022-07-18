@@ -1,2 +1,2 @@
 # git-github
-This is for tutuorial purpose.
+This is for tutuorial purpose .
